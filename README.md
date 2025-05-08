@@ -35,8 +35,6 @@ You can view a live demo of the app by visiting https://quiz-web-app-phi.vercel.
   ├── index.html          # Main HTML file containing the structure of the page <br>
   ├── styles.css          # CSS file for styling the app <br>
   ├── script.js           # JavaScript file containing the logic for the quiz and theme toggle <br>
-  ├── /assets<br>
-  │   └── screenshot.png  # Add any images here (e.g., screenshots, assets for your app)<br>
   └── README.md           # This file (you are reading it right now)<br>
 
 

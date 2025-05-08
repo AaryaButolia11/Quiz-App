@@ -12,11 +12,16 @@ This is a fun and interactive quiz app built with HTML, CSS, and JavaScript. It 
 
 ## Demo
 
-You can view a live demo of the app by visiting [this link](#) (Add your live demo URL here).
+You can view a live demo of the app by visiting https://quiz-web-app-phi.vercel.app/
 
 ## Screenshots
+![Screenshot 2025-05-08 150254](https://github.com/user-attachments/assets/1ce4e64e-42ce-47ea-a57e-f996559a4a39)
+![Screenshot 2025-05-08 150303](https://github.com/user-attachments/assets/852d7bc2-3485-4616-910b-8ad88082fac6)
+![Screenshot 2025-05-08 150315](https://github.com/user-attachments/assets/a6d085fd-63e5-4ec3-a07d-d184c1a0259a)
+![Screenshot 2025-05-08 150333](https://github.com/user-attachments/assets/597e0b0d-e69d-4c4c-9146-75980d486845)
+![Screenshot 2025-05-08 150408](https://github.com/user-attachments/assets/43bb55f1-94ad-48f1-a607-6149b2bc8ed9)
+![Screenshot 2025-05-08 150418](https://github.com/user-attachments/assets/9c2d65dd-ecbb-49ee-a175-be610d1ccb0b)
 
-![App Screenshot](#)  <!-- Add a screenshot image here -->
 
 ## Technologies Used
 
@@ -43,14 +48,6 @@ If you answer all questions correctly, a confetti animation will trigger, celebr
 4. Score Tracking
 After completing the quiz, the score is displayed showing how many answers were correct. If the score is equal to the total number of questions, the confetti effect is triggered.
 
-## File- Structure
-/quiz-app
-  ├── index.html          # Main HTML file containing the structure of the page
-  ├── styles.css          # CSS file for styling the app
-  ├── script.js           # JavaScript file containing the logic for the quiz and theme toggle
-  ├── /assets
-  │   └── screenshot.png  # Add any images here (e.g., screenshots, assets for your app)
-  └── README.md           # This file (you are reading it right now)
 
 ## Code Explanation
 HTML

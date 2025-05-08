@@ -50,13 +50,13 @@ After completing the quiz, the score is displayed showing how many answers were 
 
 
 ## Code Explanation
-HTML
+### HTML<br>
 The index.html file contains the structure of the app, including the quiz container, the start button, next button, result container, and the theme toggle button.
 
-CSS
+### CSS
 The styles.css file contains the styles for both the light and dark themes. The themes are switched by toggling a class on the <body> element.
 
-JavaScript
+### JavaScript
 The script.js file contains the functionality of the quiz:
 
 It handles the initialization and shuffling of questions.
@@ -67,7 +67,7 @@ It tracks the score and displays it at the end.
 
 It adds a confetti effect when the user scores a perfect score.
 
-How to Contribute
+## How to Contribute
 Fork the repository.
 
 Create a new branch (git checkout -b feature-name).
